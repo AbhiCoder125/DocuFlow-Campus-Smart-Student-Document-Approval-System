@@ -147,7 +147,7 @@ Academic Section
 | Observation             | Finding                                                  |
 | ----------------------- | -------------------------------------------------------- |
 | Processing time         | About 6 days                                             |
-| Approval levels         | CSE HOD, Principal, Academic Section                     |
+| Approval levels         | HOD, Academic Section, Principal                         |
 | Physical movement       | Multiple office visits                                   |
 | Staff availability      | Different authorities were unavailable on different days |
 | Deadline                | Process came close to the external deadline              |
